@@ -1,0 +1,19 @@
+INSTRUKCJA - JAK DODAĆ ZDJĘCIA DO GALERII
+
+1. Wrzuć swoje zdjęcia realizacji do tego folderu
+2. Nazwij je: 1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg itd.
+3. Zdjęcia pojawią się automatycznie w galerii na stronie
+
+ZALECENIA:
+- Format: JPG lub PNG
+- Rozdzielczość: minimum 1200x800px
+- Rozmiar pliku: max 2-3MB (dla szybkiego ładowania)
+- Orientacja: pozioma (landscape) wygląda najlepiej
+
+PRZYKŁAD:
+1.jpg - Naprawa hydrauliki koparki Caterpillar
+2.jpg - Diagnostyka silnika Volvo
+3.jpg - Modernizacja sterownika ECM
+4.jpg - Serwis maszyny drogowej Wirtgen
+5.jpg - Naprawa instalacji elektrycznej
+6.jpg - Przegląd techniczny jednostki

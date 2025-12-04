@@ -1,0 +1,10 @@
+INSTRUKCJA - JAK DODAĆ LOGO
+
+1. Wrzuć swoje logo do tego folderu
+2. Nazwij je: logo.png (lub logo.jpg)
+3. Logo pojawi się automatycznie na stronie w nawigacji
+
+ZALECANE WYMIARY:
+- Szerokość: 200-400px
+- Wysokość: 60-100px
+- Format: PNG z przezroczystym tłem (najlepszy) lub JPG
