@@ -26,8 +26,11 @@ const Contact = () => {
               </div>
               <div>
                 <div className="text-gray-400 text-sm mb-1">Telefon</div>
-                <a href="tel:+48123456789" className="text-xl font-semibold hover:text-secondary transition-colors">
-                  +48 123 456 789
+                <a href="tel:+48881787113" className="text-xl font-semibold hover:text-secondary transition-colors block">
+                  +48 881 787 113
+                </a>
+                <a href="tel:+48504536966" className="text-xl font-semibold hover:text-secondary transition-colors block mt-1">
+                  +48 504 536 966
                 </a>
               </div>
             </div>
@@ -41,8 +44,8 @@ const Contact = () => {
               </div>
               <div>
                 <div className="text-gray-400 text-sm mb-1">Email</div>
-                <a href="mailto:kontakt@serwis.pl" className="text-xl font-semibold hover:text-secondary transition-colors break-all">
-                  kontakt@serwis.pl
+                <a href="mailto:voltscan@biuro.pl" className="text-xl font-semibold hover:text-secondary transition-colors break-all">
+                  voltscan@biuro.pl
                 </a>
               </div>
             </div>
@@ -58,8 +61,8 @@ const Contact = () => {
               <div>
                 <div className="text-gray-400 text-sm mb-1">Adres</div>
                 <div className="text-xl font-semibold">
-                  ul. Przykładowa 123<br />
-                  00-000 Miasto
+                  ul. Krzywa 4<br />
+                  43-430 Skoczów
                 </div>
               </div>
             </div>
@@ -75,14 +78,10 @@ const Contact = () => {
               <div className="space-y-2 text-gray-300">
                 <div className="flex justify-between">
                   <span>Poniedziałek - Piątek:</span>
-                  <span className="font-semibold">8:00 - 18:00</span>
+                  <span className="font-semibold">7:00 - 18:00</span>
                 </div>
                 <div className="flex justify-between">
-                  <span>Sobota:</span>
-                  <span className="font-semibold">9:00 - 14:00</span>
-                </div>
-                <div className="flex justify-between">
-                  <span>Niedziela:</span>
+                  <span>Weekend:</span>
                   <span className="font-semibold text-red-400">Zamknięte</span>
                 </div>
               </div>

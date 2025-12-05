@@ -85,23 +85,6 @@ const Realizations = () => {
             </div>
           ))}
         </div>
-
-        {/* Info box */}
-        <div className="mt-16 bg-white rounded-2xl p-8 shadow-lg border border-gray-200 max-w-3xl mx-auto text-center">
-          <svg className="w-16 h-16 text-primary mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-          </svg>
-          <h3 className="text-2xl font-bold text-dark mb-3">
-            Dodaj swoje zdjęcia realizacji
-          </h3>
-          <p className="text-gray-600 leading-relaxed mb-4">
-            Aby dodać własne zdjęcia, umieść je w folderze <code className="bg-gray-100 px-2 py-1 rounded text-primary font-mono">public/images/gallery/</code>
-            {' '}i nazwij je: 1.jpg, 2.jpg, 3.jpg itd.
-          </p>
-          <p className="text-sm text-gray-500">
-            Zdjęcia pojawią się automatycznie w galerii
-          </p>
-        </div>
       </div>
 
       {/* Lightbox Modal */}
