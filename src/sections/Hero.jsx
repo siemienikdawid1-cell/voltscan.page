@@ -19,19 +19,27 @@ const Hero = () => {
 
       <div className="container mx-auto px-4 sm:px-6 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
+          {/* Logo */}
+          <div className="mb-6 flex justify-center">
+            <img
+              src="/images/logo/logo.png"
+              alt="Voltscan Logo"
+              className="h-32 md:h-48 w-auto"
+            />
+          </div>
+
           {/* Main heading */}
-          <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            Profesjonalny Serwis
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-secondary to-primary mt-2">
-              Maszyn Budowlanych
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
+            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-secondary to-primary">
+              Serwis Maszyn
             </span>
           </h1>
 
           {/* Subheading */}
           <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed">
-            Diagnostyka i naprawa hydrauliki siłowej.<br />
-            Naprawa maszyn budowlanych, drogowych oraz napędów<br className="hidden md:block" />
-            instalowanych na jednostkach pływających.
+            Kompleksowa diagnostyka i naprawa wszelkiego rodzaju maszyn.<br />
+            Specjalizujemy się w diagnostyce usterek elektrycznych, naprawie<br className="hidden md:block" />
+            elektroniki oraz diagnostyce i serwisie układów hydraulicznych.
           </p>
 
           {/* Features list */}
