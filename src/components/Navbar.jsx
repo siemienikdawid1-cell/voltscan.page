@@ -35,7 +35,7 @@ const Navbar = () => {
             <img
               src="/images/logo/logo.png"
               alt="Logo"
-              className="h-12 md:h-16 w-auto"
+              className="h-16 md:h-20 w-auto"
               onError={(e) => {
                 e.target.style.display = 'none';
                 e.target.nextSibling.style.display = 'block';
